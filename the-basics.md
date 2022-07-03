@@ -1,5 +1,5 @@
 Assignment git and github
-Jessica Nurzabrina (team 19)
+Jessica Nurzabrina (team 19).
 
 Now that you have learned the basics of Git workflow, try running through this a couple of times on your own:
 
